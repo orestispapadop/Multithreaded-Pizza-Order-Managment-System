@@ -1,0 +1,28 @@
+# C project
+*.o
+*.out
+*.exe
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Build dirs
+/build/
+/bin/
+/lib/
+/dist/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.make
+.cache/
+
+# IDE/editor
+.vscode/
+.idea/
+.DS_Store
+*.user
+*.suo
+*.vcxproj*
+*.code-workspace
